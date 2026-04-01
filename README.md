@@ -22,3 +22,5 @@ ADF → ADLS → Databricks → Synapse → Power BI
 ## Output
 - Clean and structured data for analytics
 - Dashboard-ready datasets
+
+## Kindly go through explaination first
